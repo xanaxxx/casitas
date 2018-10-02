@@ -77,7 +77,7 @@ public class principal extends javax.swing.JFrame {
             }
         });
     }
-
+//Hola
     // Variables declaration - do not modify//GEN-BEGIN:variables
     // End of variables declaration//GEN-END:variables
 }
